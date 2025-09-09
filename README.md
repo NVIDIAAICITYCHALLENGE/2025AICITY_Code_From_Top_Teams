@@ -6,6 +6,7 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 
 ## Track 1: Multi-Camera 3D Perception
 * [UTE AI Lab - Team 116](https://github.com/kiyotaka1102/VGCRTrack)
+* [SKKU-AutoLab - Team 15](https://github.com/SKKUAutoLab/AIC25_Track_01)
   
 
 
