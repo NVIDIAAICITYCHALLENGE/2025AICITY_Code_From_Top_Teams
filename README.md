@@ -12,6 +12,7 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 
 ## Track 2: Traffic Safety Description and Analysis
 * [Rutgers_ECE_MM - Team 121](https://github.com/BaamPark/TrafficVILA.git)
+* [CHTTLIOT - Team 145](https://github.com/q104769424/2025AICITY_Track2_TrafficInternVL)
 
 
 
