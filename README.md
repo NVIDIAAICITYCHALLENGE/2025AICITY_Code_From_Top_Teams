@@ -18,6 +18,7 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 
 ## Track 3: Warehouse Spatial Intelligence
 * [UWIPL_ETRI - Team 16](https://github.com/hsiangwei0903/SpatialAgent)
+* [Embia - Team 140](https://github.com/abtraore/SmolRGPT?tab=readme-ov-file)
 
 
 
