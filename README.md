@@ -24,5 +24,6 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 ## Track 4: Road Object Detection in Fish-Eye Cameras
 * [Tyche - Team 86](https://github.com/xbaotg/AICITY2025_Track4)
 * [SKKU-AutoLab - Team 15](https://github.com/SKKUAutoLab/AIC25_Track_04)
+* [xiilab - Team 53](https://github.com/xiilab/AICity2025_Track4_Xiilab/tree/master)
 
 
