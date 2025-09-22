@@ -14,6 +14,7 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 * [Rutgers_ECE_MM - Team 121](https://github.com/BaamPark/TrafficVILA.git)
 * [CHTTLIOT - Team 145](https://github.com/q104769424/2025AICITY_Track2_TrafficInternVL)
 * [VNPT_AI - Team 68](https://github.com/vnptai/AICITY2025_track2)
+* [AIO_GENAI4E - Team 60](https://github.com/AIVIETNAM-Hub/STER-VLM-Spatio-Temporal-With-Enhanced-Reference-Vision-Language-Models)
 
 
 
