@@ -15,6 +15,7 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 * [CHTTLIOT - Team 145](https://github.com/q104769424/2025AICITY_Track2_TrafficInternVL)
 * [VNPT_AI - Team 68](https://github.com/vnptai/AICITY2025_track2)
 * [AIO_GENAI4E - Team 60](https://github.com/AIVIETNAM-Hub/STER-VLM-Spatio-Temporal-With-Enhanced-Reference-Vision-Language-Models)
+* [SCU_Anastasiu - Team 1](https://github.com/davidanastasiu/tsda)
 
 
 
