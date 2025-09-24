@@ -30,5 +30,6 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 * [Tyche - Team 86](https://github.com/xbaotg/AICITY2025_Track4)
 * [SKKU-AutoLab - Team 15](https://github.com/SKKUAutoLab/AIC25_Track_04)
 * [xiilab - Team 53](https://github.com/xiilab/AICity2025_Track4_Xiilab/tree/master)
+* [SmartVision - Team 5](https://github.com/vnptai/AICITY2025_track4/tree/main)
 
 
