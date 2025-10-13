@@ -34,5 +34,6 @@ Code from top teams in 2025 AI City Challenge (not in any particular order)
 * [xiilab - Team 53](https://github.com/xiilab/AICity2025_Track4_Xiilab/tree/master)
 * [SmartVision - Team 5](https://github.com/vnptai/AICITY2025_track4/tree/main)
 * [UT_T1 - Team 43](https://github.com/yvnneno003/UT_2025_T4)
+* [UIT-OpenCubee - Team 33](https://github.com/k19tvan/AICITY2025)
 
 
